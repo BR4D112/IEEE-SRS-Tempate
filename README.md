@@ -130,7 +130,12 @@ If there are performance requirements for the product under various circumstance
 ### 5.2 Safety Requirements
 ## :octocat: Diego Alejandro Rubiano Buitrago :octocat:
 
-``` en el apartado de la creación de un software de gestion de reservas de hotel, el software debera pedir validacion por correo luego de crear la cuenta y tambien luego de iniciar sesion, mandando un codigo para verificar su veracidad, con el fin de evitar suplantacion de datos o robo de informacion ```
+```
+Commit del ejercicio propuesto:
+En el apartado de la creación de un software de gestion de reservas de hotel, el software debera pedir validacion por correo luego de
+crear la cuenta y tambien luego de iniciar sesion, mandando un codigo para verificar su veracidad, con el fin de evitar suplantacion de
+datos o robo de informacion
+```
 
 Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.
 ### 5.3 Security Requirements
